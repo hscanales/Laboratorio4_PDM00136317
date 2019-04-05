@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieAPI</string>
+    <string name="movie_name_string">Movie Name:</string>
+    <string name="movie_title_string">Movie Name</string>
+    <string name="rate_ex_string">rate</string>
+    <string name="lorem_30_string">lorem ipsum lmao mofoke kz mai jas boi plz kys u trash mofo nigger he is a nigger boi</string>
+    <string name="runtime_ex_string">runtime</string>
+</resources>
