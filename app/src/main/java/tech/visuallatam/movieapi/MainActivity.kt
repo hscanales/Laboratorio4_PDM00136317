@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
 
         }
 
-        add_movie_btn.setOnClickListener { FetchMovie().execute("${movie_name_et}") }
+        add_movie_btn.setOnClickListener { FetchMovie().execute("${movie_name_et.text}") }
     }
 
     fun addMovieToList(movie: Pelicula){
